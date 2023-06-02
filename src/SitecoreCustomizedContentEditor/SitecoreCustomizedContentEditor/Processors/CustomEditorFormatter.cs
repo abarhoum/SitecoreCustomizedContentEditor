@@ -34,6 +34,7 @@ namespace SitecoreCustomizedContentEditor.Processors
         public void AddIcon(Control parent, Editor.Field field)
         {
             AddLiteralControl(parent, GenerateIcon(field));
+            
 
         }
         private static string GenerateIcon(Editor.Field field)
@@ -44,8 +45,8 @@ namespace SitecoreCustomizedContentEditor.Processors
             {
                 toolTip = toolTipField.Fields["__HTML Tooltip"].Value;
             }
-            
-            return string.Format("<a title=\"field tooltip = {0}\"  href=\"#\">{1}</a>", toolTip,  GetIcon());
+             return string.Format("<div class='tooltip'>{0}<span class='tooltiptext'>{1}</span></div>", GetIcon(),toolTip);
+            //return string.Format("<a title=\"field tooltip = {0}\" style=\"float: right;margin-top:-20px;right:15px;\" href =\"#\">{1}</a>", toolTip,  GetIcon());
         }
         private static string GetIcon()
         {
