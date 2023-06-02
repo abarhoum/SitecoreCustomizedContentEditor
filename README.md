@@ -7,5 +7,5 @@ steps:
       <processor type="Sitecore.Shell.Applications.ContentEditor.Pipelines.RenderContentEditor.RenderStandardContentEditor, Sitecore.Client" />
 </renderContentEditor>
 ```
-2) Install the sitecore package
+2) Install the sitecore package Package/TooltipHTMLField-1.zip
 3) navigate to HTML Tooltip and add your content you should see an icon on each field for this tooltip that will display and HTML content.
