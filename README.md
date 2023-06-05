@@ -12,4 +12,9 @@
 2) Install the sitecore package Package/TooltipHTMLField-1.zip.
 3) Publish the project to the root folder of Sitecore.
 4) Navigate to "HTML Tooltip" field, and add your rich text content, you should see an icon on each field for this tooltip that will display and HTML content.
-   <img src="screenshot/video.gif" />
+**screenshots:**   
+  <img src="screenshot/video.gif" />
+  <br/>
+  <img src="screenshot/template.png" />
+  <br/>
+  <img src="screenshot/item.png" />
