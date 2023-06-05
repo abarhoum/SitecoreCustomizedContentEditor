@@ -1,5 +1,5 @@
 # Sitecore Customized Content Editor (HTML Tooltip)
-**Sitecore version**: Sitecore.NET 10.3.0 (rev. 008463)
+**Sitecore version**: Sitecore 10.3.0 (rev. 008463)
 
  **Steps:** 
 1) Comment out the following lines from Sitecore.config.
