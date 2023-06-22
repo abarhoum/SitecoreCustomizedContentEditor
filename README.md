@@ -9,6 +9,7 @@
     </renderContentEditor>
 ```
 2) Download this package to your sitecore insatance : Package/HTMLTooltipNoCustomization-1.zip
+3) It should work now similar to what we see in the screenshot below.
 
 **If you want to do more customization please follow the following steps:**
 
