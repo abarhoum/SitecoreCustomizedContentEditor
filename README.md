@@ -11,7 +11,8 @@
 ```
 2) Download this package to your sitecore insatance : Package/HTMLTooltipNoCustomization-1.zip
 
-If you want to do more customization please follow 
+**If you want to do more customization please follow the following steps:**
+
 1) Install the sitecore package Package/TooltipHTMLField-1.zip.
 2) Publish the project to the root folder of Sitecore.
 3) Navigate to src\SitecoreCustomizedContentEditor\SitecoreCustomizedContentEditor\sitecore\shell\themes\standard\default\customhelptooltip.css file, where you can modify the css classes.
