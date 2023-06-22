@@ -1,7 +1,7 @@
 # Sitecore Customized Content Editor (HTML Tooltip)
 **Sitecore version**: Sitecore 10.3.0 (rev. 008463)
 
- **Steps: (This is for quick installatin where there is no need for any customization )** 
+ **Steps: (This is for quick installatin where there is no need for any customization)** 
 1) Comment out the following line from Sitecore.config.
 ```
     <renderContentEditor>
