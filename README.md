@@ -4,8 +4,7 @@
  **Steps:** 
 1) Comment out the following line from Sitecore.config.
 ```
-<renderContentEditor>
-      <processor type="Sitecore.Shell.Applications.ContentEditor.Pipelines.RenderContentEditor.RenderSkinedContentEditor, Sitecore.Client" />
+    <renderContentEditor>
       <!--<processor type="Sitecore.Shell.Applications.ContentEditor.Pipelines.RenderContentEditor.RenderStandardContentEditor, Sitecore.Client" />-->
     </renderContentEditor>
 ```
